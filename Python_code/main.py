@@ -1,6 +1,10 @@
 import Jake, bialorucki, Sommer
 
-print("Welcome to our collaborative program.")
-bialorucki.greeting()
-Jake.greeting()
-Sommer.greeting()
+def main():
+    print("Welcome to our collaborative program.")
+    bialorucki.greeting()
+    Jake.greeting()
+    Sommer.greeting()
+
+if __name__ == '__main__':
+    main()
