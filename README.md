@@ -8,3 +8,4 @@ Carl J. Bialorucki
 
 I am an excedingly handsome. I have a wife who loves me very much. Her name is Aubrey :) I am deeply invested in the Microsoft ecosystem but hope to work or compete with them in some capacity one day.
 
+My name is Jake, I grew up in Idaho, I am an equipment operator at Depatco and a cyber security analyst with the Air National Guard. I have been studying computer science for two years now and have learned a ton! I love to hunt and fish especially fly fish. I recently found out how much I enjoy writing code and amd working on getting a mulesoft cert so that I can write APIs from home. I work full time 50-60 hours a week so my availablity is after 6 every day.
