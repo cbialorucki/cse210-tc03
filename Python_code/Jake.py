@@ -1,4 +1,2 @@
-def main():
+def greeting():
     print ("Hello from Jake!")
-
-main() 
